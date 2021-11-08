@@ -1,7 +1,7 @@
 # Input fields for vue.js
 
 documentation:  https://gaidadei.ru/inputv  
-npm:  https://gaidadei.ru/inputv  
+npm:  https://www.npmjs.com/package/@vgaidadei/inputv  
 how install: https://www.youtube.com/watch?v=TmmegP511ts  
 
 # Description
